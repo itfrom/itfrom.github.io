@@ -1,4 +1,4 @@
-p {
+body {
   font-family: 'Lato', sans-serif;
 }
  
@@ -8,4 +8,8 @@ p {
  
 .bold {
   font-weight: 700;
+}
+
+.contact {
+  margin-right: 5px;
 }
